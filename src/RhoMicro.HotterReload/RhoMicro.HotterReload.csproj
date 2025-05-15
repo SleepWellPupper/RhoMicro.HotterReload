@@ -5,6 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>preview</LangVersion>
+        <VersionPrefix>1.0.1</VersionPrefix>
     </PropertyGroup>
 
     <ItemGroup>
