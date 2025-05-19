@@ -1,6 +1,6 @@
 using ExploratoryTests;
 
-using HotterReload;
+using RhoMicro.HotterReload;
 
 var builder = Host.CreateApplicationBuilder(args);
 
